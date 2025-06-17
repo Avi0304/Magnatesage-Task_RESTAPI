@@ -54,7 +54,7 @@ JWT_SECRET=your_jwt_secret_key
 
 ## ▶️ Run the Server
 
-### For Development
+### For Development (with auto-reload)
 ```bash
 npm run dev
 ```
