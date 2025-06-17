@@ -30,8 +30,8 @@ This is a full-featured **Task Management REST API** built using **Node.js**, **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-management-rest-api.git
-cd task-management-rest-api
+git clone https://github.com/Avi0304/Magnatesage-Task_RESTAPI.git
+cd Magnatesage-Task_RESTAPI
 ```
 
 ### 2. Install Dependencies
@@ -119,7 +119,7 @@ npx jest --detectOpenHandles
 ```
 /tests
   ├── auth.test.js   # Registration, login, invalid credentials
-  └── task.test.js   # Task CRUD and filtering
+  └── task.test.js   # Task CRUD 
 ```
 
 ---
